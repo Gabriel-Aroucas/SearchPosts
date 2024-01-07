@@ -1,0 +1,18 @@
+
+.button-load{
+    width: 90vw;
+    padding: 10px;
+    border: none;
+    background-color: rebeccapurple;
+    color: #ffff;
+    cursor: pointer;
+    transition: 300ms ease-in-out;
+  }
+  .button-load:hover{
+    transform: scale(0.9);
+  }
+  .button-load:disabled{
+    filter: saturate(0%);
+    transform: scale(1);
+    cursor: not-allowed;
+  }
