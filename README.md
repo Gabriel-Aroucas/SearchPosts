@@ -6,3 +6,5 @@ New consepts were used, such as
  - Spread operator
  - short-circuit methodo
  - Promisse.all to resolve more fetch methodos
+
+[@Preview](https://search-posts-rn2htae1a-gabriel-aroucas.vercel.app)
